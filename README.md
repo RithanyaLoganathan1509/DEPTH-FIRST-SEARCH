@@ -155,7 +155,12 @@ else:
 ```
 
 <h3>Output: </h3>
-<img width="451" height="447" alt="image" src="https://github.com/user-attachments/assets/889586bc-b2e7-40d7-83ac-02038f60378a" />
+
+<h6>Output 1:</h6>
+<img width="360" height="221" alt="image" src="https://github.com/user-attachments/assets/dab75635-bb2a-42fa-9101-2aa3ba0e4715" />
+
+<h6>Output 2:</h6>
+<img width="127" height="162" alt="image" src="https://github.com/user-attachments/assets/66f8f66a-78a7-4b2a-91f1-1f92408aa4ba" />
 
 <h3>Result:</h3>
 <hr>
